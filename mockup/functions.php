@@ -20,7 +20,7 @@ shuffle($deck);
 foreach ($deck as $card) {
     
    // for(){
-    
+    //
        // echo "Card value: "  . (($card % 13) + 1) . "-  Card Suite: " .  $suits[floor($card / 13)] . " <br />";
         
         echo "<img class='image-object' src='../img/".$suits[floor($card / 13)]."/".(($card % 13) + 1).".png' alt='Picture of card'>";

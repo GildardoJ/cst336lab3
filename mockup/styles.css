@@ -3,7 +3,9 @@ body {
     padding: 0;
     display: block;
 }
-
+p {
+    
+}
 .container {
     width: 50%;
     max-width: 1000%;
