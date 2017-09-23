@@ -83,5 +83,10 @@ echo $elapsedSecs . " secs";
             </div>
         </div>
     </body>
+<<<<<<< HEAD
+</html>
+
+=======
     <!---->
 </html>
+>>>>>>> bb09ab9e471f9c08f3c97e5c8a750ac5cf84693f
